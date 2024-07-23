@@ -1,6 +1,6 @@
 # hngdevops-stage5
 
-Here is the structure of this project directory:
+Here is the structure of this project directory:  
 
 -   devopsfetch/
 -   ├── devopsfetch.sh
