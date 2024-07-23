@@ -413,8 +413,7 @@ This should output the active ports and services.
 
 
 ### Conclusion
-
-By following these steps, we have successfully deployed a  `devopsfetch` tool for retrieving and monitoring server information. The tool includes a `systemd` service for continuous monitoring and logging, with log rotation and comprehensive documentation for easy setup and usage.
+With the given command outputs we have successfully deployed a  `devopsfetch` tool for retrieving and monitoring server information. The tool includes a `systemd` service for continuous monitoring and logging, with log rotation and comprehensive documentation for easy setup and usage.
 
 
 Written by: Gabriel Okom for HNG Tech
