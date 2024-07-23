@@ -1,12 +1,13 @@
 # hngdevops-stage5
 
 Here is the structure of this project directory:
-devopsfetch/
-├── devopsfetch.sh
-├── devopsfetch.service
-├── devopsfetch.logrotate
-├── README.md
-└── install.sh
+
+-   devopsfetch/
+-   ├── devopsfetch.sh
+-   ├── devopsfetch.service
+-   ├── devopsfetch.logrotate
+-   ├── README.md
+-   └── install.sh
 
 ## DevOps Mid Internship Task: Building `devopsfetch` for Server Information Retrieval and Monitoring
 
