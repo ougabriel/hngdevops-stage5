@@ -1,0 +1,11 @@
+[Unit]
+Description=DevOpsFetch Service
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/devopsfetch.sh -p
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
