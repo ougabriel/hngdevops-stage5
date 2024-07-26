@@ -5,7 +5,7 @@ Here is the structure of this project directory:
 -   devopsfetch/
 -   ├── devopsfetch.sh
 -   ├── devopsfetch.service
--   ├── devopsfetch.logrotate
+-   ├── devopsfetch.logrotate  
 -   ├── README.md
 -   └── install.sh
 
